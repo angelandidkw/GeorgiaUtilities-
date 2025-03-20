@@ -1,0 +1,74 @@
+{
+  "773541293795704842": {
+    "ratings": [
+      5,
+      3,
+      4
+    ],
+    "feedback": [
+      {
+        "user": "773541293795704842",
+        "text": "test",
+        "timestamp": 1739491365852
+      },
+      {
+        "user": "773541293795704842",
+        "text": "test",
+        "timestamp": 1739492368021
+      },
+      {
+        "user": "1109696998615027752",
+        "text": "<:haha:1149093839722774538>",
+        "timestamp": 1739558151164
+      }
+    ]
+  },
+  "1337631290660225097": {
+    "ratings": [
+      2,
+      3,
+      3
+    ],
+    "feedback": [
+      {
+        "user": "773541293795704842",
+        "text": "test",
+        "timestamp": 1739492412741
+      },
+      {
+        "user": "773541293795704842",
+        "text": "test",
+        "timestamp": 1739492658151
+      },
+      {
+        "user": "773541293795704842",
+        "text": "test",
+        "timestamp": 1739492953922
+      }
+    ]
+  },
+  "1011300298683326515": {
+    "ratings": [
+      5
+    ],
+    "feedback": [
+      {
+        "user": "1011300298683326515",
+        "text": "the best staff ever",
+        "timestamp": 1739498166645
+      }
+    ]
+  },
+  "567827463053508616": {
+    "ratings": [
+      5
+    ],
+    "feedback": [
+      {
+        "user": "668612549658279942",
+        "text": "Very helpful and fast! Professional and respectful. He needs to be promoted fr fr.",
+        "timestamp": 1740705272882
+      }
+    ]
+  }
+}
